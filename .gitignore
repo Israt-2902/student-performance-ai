@@ -1,0 +1,32 @@
+# =========================
+
+# Backend
+
+# =========================
+
+# Backend
+backend/.env
+backend/student_grade_predictor.pkl
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+# =========================
+
+# Frontend
+
+# =========================
+
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# =========================
+
+# General
+
+# =========================
+
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
